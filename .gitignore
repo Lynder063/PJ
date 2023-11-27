@@ -6,6 +6,8 @@
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
 /PJ - cv1/.idea/*
+PJ - cv6/.idea
+PJ - cv6.iml
 
 # User-specific stuff
 */.idea/**/workspace.xml
