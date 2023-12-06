@@ -17,6 +17,5 @@ public class Main {
         Osoba nactenaOsoba = IOFileTool.osoba_deserializace("osoba.ser");
         System.out.println("Načtená osoba ze serializovaného souboru: " + nactenaOsoba);
 
-        // Další souborové operace můžete testovat zde...
     }
 }
