@@ -18,6 +18,5 @@ public class Main {
         double[] cislaDouble = Ukol1.parseCislaDouble(cislaDoubleInput);
         System.out.println("Desetinná čísla: " + java.util.Arrays.toString(cislaDouble));
 
-        // Zde můžete psát váš kód pro hlavní program
     }
 }
